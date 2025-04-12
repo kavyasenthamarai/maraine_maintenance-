@@ -28,16 +28,19 @@ A real-time monitoring and predictive maintenance system for marine gas turbine 
 ## 📸 Dashboard Preview
 
 ### 🔧 Real-Time Monitoring Dashboard
-![Live Monitoring](![image](https://github.com/user-attachments/assets/9b2174b6-a363-496d-bd0b-c16e2df2c865))
+![Live Monitoring]
+(![image](https://github.com/user-attachments/assets/9b2174b6-a363-496d-bd0b-c16e2df2c865))
 
 (![image](https://github.com/user-attachments/assets/c831720d-8154-43de-ab23-167a43f69ddf))
 
 ### 📈 Decay Estimation & Warnings
-![Decay Predictions](![image](https://github.com/user-attachments/assets/05e4f82f-1eb0-461b-b2d4-08c68b817a01))
+![Decay Predictions]
+(![image](https://github.com/user-attachments/assets/05e4f82f-1eb0-461b-b2d4-08c68b817a01))
 (![image](https://github.com/user-attachments/assets/9b657d27-72c2-4e86-93f6-b48b5ab66478))
 
 ### 🛠 Maintenance Logs
-![Maintenance Logs](![image](https://github.com/user-attachments/assets/0c31d976-54c1-42d3-8e37-80f39cab0145))
+![Maintenance Logs]
+(![image](https://github.com/user-attachments/assets/0c31d976-54c1-42d3-8e37-80f39cab0145))
 
 
 
