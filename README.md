@@ -1,7 +1,7 @@
 
-# ⚙️ Marine Gas Turbine Maintenance System
+# ⚙️ Predictive Fault Detection and Maintenance System
 
-A real-time monitoring and predictive maintenance system for marine gas turbine plants using **WebSocket streaming**, **machine learning**, and an interactive **Streamlit dashboard**.
+This predictive fault detection and maintenance system utilizes WebSocket streaming, machine learning, and an interactive Streamlit dashboard. Originally designed for marine gas turbine plants, this system can be adapted to various industries, such as wind turbines, factory machines, and other industrial systems. It aims to reduce human intervention, minimize downtime, and lower maintenance costs by providing real-time alerts and fault predictions.
 
 ---
 
